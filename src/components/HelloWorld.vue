@@ -19,7 +19,7 @@ h3 {
 }
 ul {
   list-style-type: none;
-  padding: 0;
+  padding: 1px;
 }
 li {
   display: inline-block;
